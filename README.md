@@ -1,0 +1,24 @@
+
+# Fitness Functions for Your Architecture
+
+This repository contains examples of Fitness Functions for structures in certain architectural patterns and styles.
+Fitness Functions are and important piece of [Evolutionary Architectures](https://evolutionaryarchitecture.com/).
+
+The examples are written in Java and demonstrate two suitable tools/libraries for implementing structural
+fitness functions: [ArchUnit](https://www.archunit.org/) and [jMolecules](https://xmolecules.org/).
+
+You'll find the structure examples [here](src/main/java), along with visualizations (editable PNGs for
+diagrams.net / draw.io).
+
+The corresponding fitness functions are available [here](src/test/java).
+
+
+## Note
+
+*All* fitness functions are expected to *fail* in order to demonstrate how unwanted dependencies are reported as
+violations. The failure messages hint at how the violations can be fixed easily.
+
+
+## Talks & Slides
+
+- [Agile meets Architecture 2023](https://www.agile-meets-architecture.com/2023/schedule), 2023-10-05 ([PDF](https://thomas-much.de/presentations/FitnessFunctionsForYourArchitecture-AmA-2023.pdf))
