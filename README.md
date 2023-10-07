@@ -15,8 +15,11 @@ The corresponding fitness functions are available [here](src/test/java).
 
 ## Note
 
-*All* fitness functions are expected to *fail* in order to demonstrate how unwanted dependencies are reported as
-violations. The failure messages hint at how the violations can be fixed easily.
+- *All* fitness functions are expected to *fail* in order to demonstrate how unwanted dependencies are reported as
+  violations. The failure messages hint at how the violations can be fixed easily.
+- The example code deliberately violates some common Java coding conventions (especially regarding naming, like calling
+  classes "Class..."), because this hopefully makes it easier for non-programmers to understand the structures and
+  dependencies.
 
 
 ## Talks & Slides
