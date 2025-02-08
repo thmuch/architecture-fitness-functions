@@ -25,4 +25,4 @@ The corresponding fitness functions are available [here](src/test/java).
 ## Talks & Slides
 
 - [OOP 2025](https://www.oop-konferenz.de/de/programm/konferenzprogramm#item-7725), 2025-02-06 ([PDF](https://thomas-much.de/presentations/FitnessFunctionsForYourArchitecture-OOP-2025.pdf))
-- [Agile meets Architecture 2023](https://www.agile-meets-architecture.com/2023/schedule), 2023-10-05 ([PDF](https://thomas-much.de/presentations/FitnessFunctionsForYourArchitecture-AmA-2023.pdf))
+- [Agile meets Architecture 2023](https://www.agile-meets-architecture.com/2023/schedule), 2023-10-05 ([PDF](https://thomas-much.de/presentations/FitnessFunctionsForYourArchitecture-AmA-2023.pdf), [Video](https://www.youtube.com/watch?v=qa-UDL_IWRk))
