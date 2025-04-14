@@ -12,6 +12,8 @@ diagrams.net / draw.io).
 
 The corresponding fitness functions are available [here](src/test/java).
 
+If you want to learn more about fitness functions, read more about them on [InfoQ](https://www.infoq.com/articles/fitness-functions-architecture/).
+
 
 ## Note
 
